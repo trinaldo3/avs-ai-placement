@@ -1,0 +1,32 @@
+{
+  "team": "Colorado Avalanche",
+  "updated_at": "local-dev",
+  "forwards": [
+    { "name": "Nathan MacKinnon", "pos": "C",  "line": 1 },
+    { "name": "Marin Necas",   "pos": "RW", "line": 1 },
+    { "name": "Artturi Lehkonen", "pos": "LW", "line": 1 },
+
+    { "name": "Brock Nelson","pos": "C",  "line": 2 },
+    { "name": "Valeri Nichushkin","pos": "RW", "line": 2 },
+    { "name": "Gabe Landeskog",  "pos": "LW", "line": 2 },
+
+    { "name": "Jack Drury",      "pos": "C",  "line": 3 },
+    { "name": "Logan O'Connor",   "pos": "RW", "line": 3 },
+    { "name": "Victor Olofsson",       "pos": "LW", "line": 3 },
+
+    { "name": "Zakhar Bardakov",  "pos": "C", "line": 4 },
+    { "name": "Gavin Brindley",     "pos": "RW",  "line": 4 },
+    { "name": "Parker Kelly",   "pos": "LW", "line": 4 }
+  ],
+  "defense": [
+    { "name": "Cale Makar",       "pos": "RD", "pair": 1 },
+    { "name": "Devon Toews",      "pos": "LD", "pair": 1 },
+
+    { "name": "Josh Manson",      "pos": "LD", "pair": 2 },
+    { "name": "Brent Burns",      "pos": "RD", "pair": 2 },
+
+    { "name": "Samuel Girard",    "pos": "LD", "pair": 3 },
+    { "name": "Sam Malinski",     "pos": "RD", "pair": 3 }
+  ]
+}
+

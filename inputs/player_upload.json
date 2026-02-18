@@ -1,0 +1,20 @@
+{
+"player_name": "Tucker Rinaldo",
+"position": "D",
+"shoots": "R",
+"age": "25",
+"height": 71,
+"weight": 165,
+"stats": {
+"goals": 20,
+"assists": 25,
+"points": 45,
+"games": 50,
+"toi": 15.4,
+"pp": 0,
+"pk": 4,
+"hits": 55,
+"blocked_shots": 35
+},
+"style_tags": ["speed","goals","top-pair"]
+}
